@@ -1,0 +1,30 @@
+.container {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.summer {
+  background: rgba(240, 217, 16, 0.979);
+}
+
+.winter {
+  background: rgba(120, 128, 240, 0.979);
+}
+
+h1 {
+  font-size: 5em;
+}
+
+.icon-left {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
+.icon-right {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
